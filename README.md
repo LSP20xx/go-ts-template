@@ -28,6 +28,7 @@ This repository provides a template for building full-stack applications using G
 
 ## Project Structure
 
+```bash
 ├── backend
 │ ├── main.go # Main entry point for the Go backend
 │ ├── api # API handlers
@@ -42,9 +43,7 @@ This repository provides a template for building full-stack applications using G
 │ ├── store # State management setup
 │ └── App.tsx # Main entry point for the React frontend
 └── public # Static assets like images, icons, etc.
-
-bash
-
+```
 
 ## Getting Started
 

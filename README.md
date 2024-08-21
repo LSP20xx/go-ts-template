@@ -54,9 +54,8 @@ git clone https://github.com/LSP20xx/go-ts-template.git
 cd go-ts-template
 ```
 
-Setting Up the Backend
+Navigate to the backend directory:
 
-    Navigate to the backend directory:
 ```bash
 cd backend
 ```
@@ -73,9 +72,8 @@ Run the backend server:
 go run main.go
 ```
 
-Setting Up the Frontend
+Navigate to the frontend directory:
 
-    Navigate to the frontend directory:
 ```bash
 cd frontend
 ```
